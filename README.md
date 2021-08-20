@@ -38,7 +38,7 @@ Our <a href="https://finnworlds.com/documentation">documentation</a> includes in
 
 <h2>Examples</h2>
 
-https://www.finnworlds.com/api/v1/analystratings?key=APIKEY&stock_ticker_symbol=AAPL,GOOG
+https://www.finnworlds.com/api/v1/analystratings?key=YOUR-KEY&stock_ticker_symbol=AAPL,GOOG
 
 
 
