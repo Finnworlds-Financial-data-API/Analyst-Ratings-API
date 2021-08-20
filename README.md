@@ -115,4 +115,4 @@ https://www.finnworlds.com/api/v1/analystratings?key=YOUR-KEY&stock_ticker_symbo
 
 <h2>Legal</h2>
 
-<p>Use of the Finnworlds website, services like API and database are subject to the&nbsp;<a href="https://finnworlds.com/legal/terms-and-conditions-on-finnworlds-data/">mediastack Terms &amp; Conditions</a></p>
+<p>Use of the Finnworlds website, services like API and database are subject to the&nbsp;<a href="https://finnworlds.com/legal/terms-and-conditions-on-finnworlds-data/">Finnworlds terms &amp; Conditions</a></p>
