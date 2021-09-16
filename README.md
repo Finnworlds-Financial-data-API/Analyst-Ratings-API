@@ -38,7 +38,7 @@ Our <a href="https://finnworlds.com/documentation">documentation</a> includes in
 
 <h2>Examples</h2>
 
-https://www.finnworlds.com/api/v1/analystratings?key=YOUR-KEY&stock_ticker_symbol=AAPL,GOOG
+<a href="https://finnworlds.com/documentation">https://www.finnworlds.com/api/v1/analystratings?key=YOUR-KEY&stock_ticker_symbol=AAPL,GOOG</a>
 
 
 
@@ -87,7 +87,7 @@ https://www.finnworlds.com/api/v1/analystratings?key=YOUR-KEY&stock_ticker_symbo
 
 
 
-<p>https://www.finnworlds.com/api/v1/analystratings?key=YOUR-KEY&analyst_firm=JPMorgan</p>
+<p><a href="https://finnworlds.com/documentation">https://www.finnworlds.com/api/v1/analystratings?key=YOUR-KEY&analyst_firm=JPMorgan</a></p>
 
 
 
